@@ -21,7 +21,7 @@ OutputStream fileWriter;
 
 	private void sleep() {
 		try {
-			Thread.sleep(5000);
+			Thread.sleep(6000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
